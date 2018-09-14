@@ -1,0 +1,31 @@
+{
+  "name": "webtutor-docs",
+  "version": "1.0.0",
+  "description": "Руководство для разработчиков WebTutor",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maksimyurkov/webtutor-docs.git"
+  },
+  "keywords": [
+    "documentation",
+    "webtutor",
+    "docs"
+  ],
+  "author": "Maksim Yurkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maksimyurkov/webtutor-docs/issues"
+  },
+  "homepage": "https://github.com/maksimyurkov/webtutor-docs#readme",
+  "dependencies": {
+    "vuepress": "^0.14.2"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "WebTutor Docs",
+  "short_name": "Руководство для разработчиков WebTutor",
+  "icons": [
+    {
+      "src": "https://res.cloudinary.com/cdn-01ht/image/upload/c_scale,w_192/v1530624792/logos/01ht/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://res.cloudinary.com/cdn-01ht/image/upload/c_scale,w_512/v1530624792/logos/01ht/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#1d9ee2"
+}
