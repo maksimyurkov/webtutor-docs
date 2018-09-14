@@ -1,7 +1,7 @@
 {
   "name": "webtutor-docs",
   "version": "1.0.0",
-  "description": "Руководство для разработчиков WebTutor",
+  "description": "Неофициальное руководство по разработке WebTutor",
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev docs",

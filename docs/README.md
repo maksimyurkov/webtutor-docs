@@ -11,7 +11,7 @@ footer: MIT Licensed | Copyright © 2018-present Maksim Yurkov
 Навигация на страницах руководства(левый сайдбар), пока не поддерживает вложенность разделов(находится в разработке) и все вложенные в родительские разделы сейчас видимы и находятся на одном уровне с родительскими.
 :::
 
-**WebTutor Docs** - это неофициальное руководство по разработке в WebTutor, созданное и поддерживаемое разработчиками.
+**WebTutor Docs** - Неофициальное руководство по разработке в WebTutor.
 
 ### Краткое содержание
 
@@ -39,9 +39,9 @@ footer: MIT Licensed | Copyright © 2018-present Maksim Yurkov
 
 ***
 
-* [Содействие](https://github.com/maksimyurkov/webtutor-docs/blob/master/CONTRIBUTING)
-* [Авторы](https://github.com/maksimyurkov/webtutor-docs/blob/master/CONTRIBUTORS)
-* [Источники](https://github.com/maksimyurkov/webtutor-docs/blob/master/SOURCES)
-* [Лицензия](https://github.com/maksimyurkov/webtutor-docs/blob/master/LICENSE)
+* [Содействие](https://github.com/maksimyurkov/webtutor-docs/blob/master/CONTRIBUTING.md)
+* [Авторы](https://github.com/maksimyurkov/webtutor-docs/blob/master/CONTRIBUTORS.md)
+* [Источники](https://github.com/maksimyurkov/webtutor-docs/blob/master/SOURCES.md)
+* [Лицензия](https://github.com/maksimyurkov/webtutor-docs/blob/master/LICENSE.md)
 
 Сделано с помощью [VuePress](https://vuepress.vuejs.org/)

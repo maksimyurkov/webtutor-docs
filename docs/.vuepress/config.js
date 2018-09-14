@@ -1,7 +1,7 @@
 module.exports = {
   dest: "vuepress",
   title: "WebTutor Docs",
-  description: "Руководство разработчика WebTutor",
+  description: "Неофициальное руководство по разработке WebTutor",
   head: [
     [
       "link",
@@ -51,6 +51,10 @@ module.exports = {
     docsDir: "docs",
     // displayAllHeaders: true,
     sidebarDepth: 3,
+    // algolia: {
+    //   apiKey: "",
+    //   indexName: ""
+    // },
     nav: [{ text: "Руководство", link: "/about-webtutor/" }],
     editLinkText: "Редактировать страницу на GitHub",
     lastUpdated: "Последнее обновление",

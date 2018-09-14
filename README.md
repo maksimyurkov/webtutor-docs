@@ -4,7 +4,11 @@
   </a>
 </p>
 
-**WebTutor Docs** - это неофициальное руководство по разработке в WebTutor, созданное и поддерживаемое разработчиками.
+# WebTutor Docs
+
+> Неофициальное руководство по разработке WebTutor
+
+https://webtutor-docs.netlify.com/
 
 ### Краткое содержание
 
@@ -31,9 +35,9 @@
 
 ***
 
-* [Содействие](https://github.com/maksimyurkov/webtutor-docs/blob/master/CONTRIBUTING)
-* [Авторы](https://github.com/maksimyurkov/webtutor-docs/blob/master/CONTRIBUTORS)
-* [Источники](https://github.com/maksimyurkov/webtutor-docs/blob/master/SOURCES)
-* [Лицензия](https://github.com/maksimyurkov/webtutor-docs/blob/master/LICENSE)
+* [Содействие](https://github.com/maksimyurkov/webtutor-docs/blob/master/CONTRIBUTING.md)
+* [Авторы](https://github.com/maksimyurkov/webtutor-docs/blob/master/CONTRIBUTORS.md)
+* [Источники](https://github.com/maksimyurkov/webtutor-docs/blob/master/SOURCES.md)
+* [Лицензия](https://github.com/maksimyurkov/webtutor-docs/blob/master/LICENSE.md)
 
 Сделано с помощью [VuePress](https://vuepress.vuejs.org/)
