@@ -38,6 +38,6 @@ https://webtutor-docs.netlify.com/
 * [Содействие](https://github.com/maksimyurkov/webtutor-docs/blob/master/CONTRIBUTING.md)
 * [Авторы](https://github.com/maksimyurkov/webtutor-docs/blob/master/CONTRIBUTORS.md)
 * [Источники](https://github.com/maksimyurkov/webtutor-docs/blob/master/SOURCES.md)
-* [Лицензия](https://github.com/maksimyurkov/webtutor-docs/blob/master/LICENSE.md)
+* [Лицензия](https://github.com/maksimyurkov/webtutor-docs/blob/master/LICENSE)
 
 Сделано с помощью [VuePress](https://vuepress.vuejs.org/)

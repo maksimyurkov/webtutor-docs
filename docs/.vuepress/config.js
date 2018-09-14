@@ -52,10 +52,10 @@ module.exports = {
     docsDir: "docs",
     // displayAllHeaders: true,
     sidebarDepth: 3,
-    // algolia: {
-    //   apiKey: "",
-    //   indexName: ""
-    // },
+    algolia: {
+      apiKey: "012853d1e7866badd85449541d83a5cb",
+      indexName: "webtutor_docs"
+    },
     nav: [{ text: "Руководство", link: "/about-webtutor/" }],
     editLinkText: "Редактировать страницу на GitHub",
     lastUpdated: "Последнее обновление",
