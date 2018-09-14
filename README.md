@@ -6,7 +6,7 @@
 
 # WebTutor Docs
 
-> Неофициальное руководство по разработке WebTutor
+> Неофициальное руководство по разработке в WebTutor
 
 https://webtutor-docs.netlify.com/
 
