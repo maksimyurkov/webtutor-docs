@@ -20,5 +20,4 @@ npm run dev
 
 Внесите ваши изменения после чего сделайте "Pull request"
 
-Не забудьте добавить себя в [Авторы](https://github.com/maksimyurkov/webtutor-docs/blob/master/CONTRIBUTORS)
-
+Не забудьте добавить себя в [Авторы](https://github.com/maksimyurkov/webtutor-docs/blob/master/CONTRIBUTORS.md)

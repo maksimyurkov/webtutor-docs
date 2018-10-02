@@ -45,6 +45,7 @@ module.exports = {
     ["meta", { name: "msapplication-TileColor", content: "#000000" }]
   ],
   serviceWorker: true,
+  evergreen: true,
   // theme: "vue",
   themeConfig: {
     repo: "maksimyurkov/webtutor-docs",
