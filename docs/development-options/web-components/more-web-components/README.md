@@ -42,6 +42,7 @@
 | :--- | :--- |
 | [webcomponents.org](https://www.webcomponents.org) |  |
 | [Vaadin](https://vaadin.com/elements/browse) |  |
+| [Material Web Components](https://github.com/material-components/material-components-web-components) |  |
 | [Predix Design System](https://www.predix-ui.com) |  |
 | [Wired Elements](https://wiredjs.com) |  |
 | [Bosonic](https://bosonic.github.io/elements/dialogs-modals.html) |  |

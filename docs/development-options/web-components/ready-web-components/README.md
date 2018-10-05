@@ -8,6 +8,8 @@
 
 [Vaadin](https://vaadin.com)
 
+[Material Web Components](https://github.com/material-components/material-components-web-components)
+
 [Predix Design System](https://www.predix-ui.com)
 
 [expand.js](https://expandjs.com)
