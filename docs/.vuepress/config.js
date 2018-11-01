@@ -8,7 +8,7 @@ module.exports = {
       "link",
       {
         rel: "icon",
-        href: `/webtutor-logo.png`
+        href: `/webtutor-docs-logo.png`
       }
     ],
     ["link", { rel: "manifest", href: "/manifest.json" }],
@@ -22,15 +22,14 @@ module.exports = {
       "link",
       {
         rel: "apple-touch-icon",
-        href: `https://res.cloudinary.com/cdn-01ht/image/upload/c_scale,w_152/v1531730403/logos/01ht/elements/logo.png`
+        href: `/webtutor-docs-logo-152.png`
       }
     ],
     [
       "link",
       {
         rel: "mask-icon",
-        href:
-          "https://res.cloudinary.com/cdn-01ht/image/upload/c_scale,w_152/v1531730403/logos/01ht/elements/logo.svg",
+        href: "/webtutor-docs-logo-152.png",
         color: "#1d9ee2"
       }
     ],
@@ -38,8 +37,7 @@ module.exports = {
       "meta",
       {
         name: "msapplication-TileImage",
-        content:
-          "https://res.cloudinary.com/cdn-01ht/image/upload/c_scale,w_144/v1531730403/logos/01ht/elements/logo.png"
+        content: "/webtutor-docs-logo-144.png"
       }
     ],
     ["meta", { name: "msapplication-TileColor", content: "#000000" }]

@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /webtutor-logo.png
+heroImage: /webtutor-docs-logo.png
 actionText: Начать →
 actionLink: /about-webtutor/
 footer: MIT Licensed | Copyright © 2018-present Maksim Yurkov

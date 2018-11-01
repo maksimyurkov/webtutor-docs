@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://webtutor-docs.netlify.com/" target="_blank">
-    <img width="90" src="./docs/.vuepress/public/webtutor-logo.png" alt="logo">
+    <img width="90" src="./docs/.vuepress/public/webtutor-docs-logo.png" alt="logo">
   </a>
 </p>
 

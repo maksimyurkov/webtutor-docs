@@ -3,12 +3,12 @@
   "short_name": "Неофициальное руководство по разработке в WebTutor",
   "icons": [
     {
-      "src": "https://res.cloudinary.com/cdn-01ht/image/upload/c_scale,w_192/v1530624792/logos/01ht/logo.png",
+      "src": "/webtutor-docs-logo-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://res.cloudinary.com/cdn-01ht/image/upload/c_scale,w_512/v1530624792/logos/01ht/logo.png",
+      "src": "/webtutor-docs-logo.png",
       "sizes": "512x512",
       "type": "image/png"
     }
