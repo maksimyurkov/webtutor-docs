@@ -1,27 +1,27 @@
 <p align="center">
-  <a href="http://webtutor-docs.netlify.com/" target="_blank">
+  <a href="https://webtutor-docs.firebaseapp.com/" target="_blank">
     <img width="90" src="./docs/.vuepress/public/webtutor-docs-logo.png" alt="logo">
   </a>
 </p>
 
-# WebTutor Docs
+# WebTutorDocs
 
 > Неофициальное руководство по разработке в WebTutor
 
-https://webtutor-docs.netlify.com/
+https://webtutor-docs.firebaseapp.com/
 
 ### Краткое содержание
 
-* [Описание WebTutor](https://webtutor-docs.netlify.com/about-webtutor/)
-* [Составляющие WebTutor (серверная/клиентская часть итд)](https://webtutor-docs.netlify.com/components-of-webtutor/) 
-* [Простой практический пример взаимодействия с WebTutor](https://webtutor-docs.netlify.com/some-practice/)
-* [Виды разработки](https://webtutor-docs.netlify.com/three-ways/)
-* [Разработка через Веб-компоненты](https://webtutor-docs.netlify.com/development-options/web-components/)
-* [Развертывание тестовой системы WebTutor](https://webtutor-docs.netlify.com/test-system/)
-* [Полезные ссылки связанные с WebTutor](https://webtutor-docs.netlify.com/useful-links/)
-* [Синтаксис, функции, код](https://webtutor-docs.netlify.com/code/)
-* [Советы](https://webtutor-docs.netlify.com/advice/)
-* [Отладка](https://webtutor-docs.netlify.com/debugging/)
+* [Описание WebTutor](https://webtutor-docs.firebaseapp.com/about-webtutor/)
+* [Составляющие WebTutor (серверная/клиентская часть итд)](https://webtutor-docs.firebaseapp.com/components-of-webtutor/) 
+* [Простой практический пример взаимодействия с WebTutor](https://webtutor-docs.firebaseapp.com/some-practice/)
+* [Виды разработки](https://webtutor-docs.firebaseapp.com/three-ways/)
+* [Разработка через Веб-компоненты](https://webtutor-docs.firebaseapp.com/development-options/web-components/)
+* [Развертывание тестовой системы WebTutor](https://webtutor-docs.firebaseapp.com/test-system/)
+* [Полезные ссылки связанные с WebTutor](https://webtutor-docs.firebaseapp.com/useful-links/)
+* [Синтаксис, функции, код](https://webtutor-docs.firebaseapp.com/code/)
+* [Советы](https://webtutor-docs.firebaseapp.com/advice/)
+* [Отладка](https://webtutor-docs.firebaseapp.com/debugging/)
 
 ### Цели
 

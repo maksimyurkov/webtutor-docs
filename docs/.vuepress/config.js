@@ -1,6 +1,6 @@
 module.exports = {
   dest: "vuepress",
-  title: "WebTutor Docs",
+  title: "WebTutorDocs",
   description: "Неофициальное руководство по разработке в WebTutor",
   ga: "UA-117327494-3",
   head: [

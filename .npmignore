@@ -9,6 +9,8 @@ yarn.lock
 TODOs.md
 .github
 .idea
+.firebase
+firebase-debug.log
 
 # CI related
 scripts
