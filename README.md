@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://webtutor-docs.firebaseapp.com/" target="_blank">
-    <img width="90" src="./docs/.vuepress/public/webtutor-docs-logo.png" alt="logo">
+    <img width="220" src="./docs/.vuepress/public/webtutor-docs-logo-main.png" alt="logo">
   </a>
 </p>
 
