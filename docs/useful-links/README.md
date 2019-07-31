@@ -14,7 +14,6 @@
 | [Функции wtv\_tools.xml](http://news.websoft.ru/view_doc.html?mode=doc_type&custom_web_template_id=6180275463021353212&doc_id=6181289497353023487) | Много готовых функций, которые подойдут для решения различных задач. Перед тем как писать свой код, загляните сюда, возможно вы найдете готовое решение. \(`\WebTutorServer\wtv\wtv_tools.xml`\) |
 | Функции wtv\_tools\_web.xml | Много готовых функций, но без описания. \(`\WebTutorServer\wtv\wtv_tools_web.xml`\) |
 | [Структура таблиц с данными](http://news.websoft.ru/view_doc.html?mode=catalogs&doc_id=5900009198344233396) | Структура и данные таблиц \(каталогов\). |
-| [Компоненты .Net](http://news.websoft.ru/wt/web/doc/net/html/163e2842-0455-47f5-93fb-821d12784123.htm) | Содержит описание некоторых .Net библиотек, которые можно использовать в своём коде. Сами библиотеки располагаются в папке "WebSoft\WebTutorServer\utils" на сервере. |
 | [ Элементы XAML](http://news.websoft.ru/view_doc.html?mode=xaml&doc_id=5900009198344233411) | Таблица с описанием элементов используемых в XAML WebTutor. |
 | [Форум news.websoft.ru](http://news.websoft.ru/view_doc.html?mode=doc&doc_id=5903427210833450968) | Форум сообщества news.websoft.ru. Используя поиск, можно найти много полезной информации, кода и решения различных проблем. Также вы всегда можете задать свой вопрос на форуме. |
 | [Работа с MS SQL](http://news.websoft.ru/view_doc.html?mode=doc&doc_id=5900009198344233425) | Раздел со статьями которые описывают процесс взаимодействия SP-XML и MS SQL. |
