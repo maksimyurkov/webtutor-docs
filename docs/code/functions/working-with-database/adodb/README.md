@@ -97,3 +97,58 @@ while(!ODBCRecordset.EOF){
     ODBCRecordset.MoveNext();
 }
 ```
+
+## Закрыть соединение
+После того, как записи получены, можно закрыть соединение:
+
+```js
+ADODBConnection.Close();
+```
+
+## Пример функции, которая делает запросы
+
+```js
+function SQLQuery(query, db_name, server_addr) {    
+    result = new Array();
+    ODBCConnectionString = "Driver={SQL Server};Server=" + server_addr + ";Database=" + db_name + ";Trusted_Connection=Yes;";
+
+    try {
+        ADODBConnection = ActiveXObject("ADODB.Connection");
+    
+        ADODBConnection.Open(ODBCConnectionString);
+        
+        try {
+            ODBCRecordset = ADODBConnection.Execute(query);
+
+            if(ODBCRecordset.BOF || ODBCRecordset.EOF) {
+                return result;
+            }
+
+            ODBCRecordset.MoveFirst();
+            
+            while(!ODBCRecordset.EOF){
+                record_obj = new Object();
+
+                for(i = 0; i < ODBCRecordset.Fields.Count; i++) {
+                    _name = ODBCRecordset.Fields(i).Name;
+                    _value = ODBCRecordset.Fields(i).Value;
+
+                    record_obj.SetProperty(_name, _value);
+                }
+
+                result.push(record_obj);
+                ODBCRecordset.MoveNext();
+            }
+        } catch (error) {
+            ADODBConnection.Close()
+            throw error;
+        }
+
+        ADODBConnection.Close()
+    } catch (error) {
+        throw error;
+    }
+
+    return result;
+}
+```
