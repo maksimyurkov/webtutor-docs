@@ -21,7 +21,14 @@
 | Информационные ресурсы WebSoft \([1](http://news.websoft.ru/view_doc.html?mode=social_blog&doc_id=5971966599214473404),[2](http://websoft-elearning.blogspot.ru/),[3](https://www.facebook.com/WebSoft-162434437160008/)\) | На определенных информационных ресурсах можно встретить статьи связанные с разработкой в WebTutor. |
 | [FAQ WebSoft](http://news.websoft.ru/view_doc.html?mode=doc&doc_id=5900009198344233423) | FAQ содержит разбитые по разделам ссылки до страниц в которых можно встретить полезную для разработки в WebTutor информацию. |
 | [Документация по WebTutor](http://news.websoft.ru/view_doc.html?mode=doc_type&object_id=5486421379493803019&doc_id=5900009198344233385&section_id=5903427210833450983) | Данный раздел будет полезен тем кто никогда раньше не работал с подобной системой. Здесь находится документация описывающая функционал системы в вебе и в интерфейсе WebTutor Administrator. |
-| [Основы программирования в среде WebTutor: Практикум](https://github.com/Alexander-Lv/WebTutor) | Учебное пособие разработано на основе учебного портала АНО "Институт безопасности труда" и содержит набор практических упражнений, предназначенных для отработки основных приемов программирования в среде WebTutor. Рассматривается объектная модель системы WebTutor и основных ее объектов, а также основы работы с объектной моделью. Пособие предназначено для администраторов учебного портала (пользователей WebTutor Administrator), интересующихся вопросами программирования в среде WebTutor. |
+
+## Полезные репозитории на GitHub
+
+| Ссылки | Описание |
+| --- | --- |
+| [Alexander-Lv/WebTutor](https://github.com/Alexander-Lv/WebTutor)  | Учебное пособие |
+| [E-learning-talk](https://gist.github.com/e-learning-talk) | Полезные функции и код |
+| [GaliFrey/WebTutor-tutorial](https://github.com/GaliFrey/WebTutor-tutorial) | Материалы по WebTutor |
 
 ## Готовые компоненты
 

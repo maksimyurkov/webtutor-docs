@@ -42,6 +42,3 @@ INNER JOIN positions AS ps ON cs.position_id = ps.id
 // Используем SQL функцию DATEADD() в SQL XQuery
 arr = XQuery('sql:for $elem in collaborators where $elem/modification_date > DATEADD(day, -5, GETDATE())  return $elem');
 ```
-
-
-
