@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/maksimyurkov/webtutor-docs#readme",
   "dependencies": {
-    "vuepress": "^0.14.4"
+    "vuepress": "^1.9.7"
   },
   "engines": {
     "node": ">=8"
